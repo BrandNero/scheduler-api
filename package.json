@@ -21,7 +21,9 @@
     "ws": "^7.0.0"
   },
   "devDependencies": {
+    "@testing-library/react-hooks": "^8.0.1",
     "jest": "^24.8.0",
+    "react-test-renderer": "^16.9.0",
     "supertest": "^4.0.2"
   },
   "jest": {
